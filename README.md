@@ -19,7 +19,7 @@ Das Projekt umfasst eine Webseite und die dazugehörige Planung. Die Webseite se
 
 * HTML5, CSS3 (und JS)
 * Einfaches PHP-basiertes templating System von **WordPress**
-* Keine/wnige Frameworks (Das Projekt einfach halten)
+* Keine/wenige Frameworks (Das Projekt einfach halten)
 * Optimiert für moderne Browser
 * Mobile-first
 
@@ -36,6 +36,7 @@ Das Projekt umfasst eine Webseite und die dazugehörige Planung. Die Webseite se
   * Grundlegender Aufbau
   * Template auf WordPress auswählen
 * **Entiwcklung**
+  * Seiten erstellen
   * Texte schreiben
   * Bilder wählen
   * Layout
