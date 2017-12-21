@@ -32,8 +32,9 @@ Die Webseite selbst wird mit einem CMS System wie z.B. WordPress, Adobe Dreamwea
 * **Planung** :pencil2:
   * **Technologie und Planung** :red_circle:
     * Anforderungsspezifikation + Analyse
-	* Kundengespräche
-	* Protokoll führen
+    * Kundengespräche
+    * Protokoll führen
+    * Tests
   * **Projekt Management** :large_blue_circle:
     * Work Breakdown Structure (WBS)
     * Zeitplan/schätzung
